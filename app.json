@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/Wahyu213/String-Session-Bot",
+  "repository": "https://github.com/BOTFATHERJI/String-session-Bot",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
