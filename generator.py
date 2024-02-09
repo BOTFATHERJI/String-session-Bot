@@ -8,7 +8,7 @@ from pyrogram.errors import ApiIdInvalid, ApiIdPublishedFlood, AccessTokenInvali
 logging.basicConfig(
     level=logging.WARNING, format="%(asctime)s - %(name)s - %(levelname)s - %(message)s"
 )
-logging.getLogger("pyrogram").setLevel(logging.WARNING)
+logging.getLogger("telethon").setLevel(logging.WARNING)
 
 
 app = Client(
